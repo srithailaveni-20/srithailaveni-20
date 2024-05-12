@@ -7,9 +7,11 @@
 >  I’m a Data Science enthusiast with proficiency in Data Analysis, Machine Learning, Statistics, and programming languages like Python and SQL. Passionate about learning and growing in the field of Data Science.
 
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=srithailaveni-2420&hide=contribs,prs&show_icons=true&theme=tokyonight"/>
+<img alt="my stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srithailaveni-2420&theme=transparent"/>
 
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srithailaveni-2420&layout=compact&theme=tokyonight"/> 
+<img alt="my stats" align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srithailaveni-2420&theme=transparent"/>
+
+<img alt="commits" align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srithailaveni-2420&theme=transparent&utcOffset={utcOffset}"/> 
 
 
 
