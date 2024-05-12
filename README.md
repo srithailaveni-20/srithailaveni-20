@@ -6,9 +6,10 @@
 
 >  I’m a Data Science enthusiast with proficiency in Data Analysis, Machine Learning, Statistics, and programming languages like Python and SQL. Passionate about learning and growing in the field of Data Science.
 
-<img src="pexels-josh-sorenson-1714205.jpg" width="1000" height="450">
+
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=srithailaveni-2420&hide=contribs,prs&show_icons=true&theme=tokyonight"/>
+
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srithailaveni-2420&layout=compact&theme=tokyonight"/> 
 
 
-<h2>Leet code stats</h2>
 
-![](https://leetcard.jacoblin.cool/srithailaveni?ext=heatmap)
