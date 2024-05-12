@@ -14,5 +14,7 @@
 <img alt="commits" align="left"  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srithailaveni-2420&theme=transparent"/> 
 
 
-<img alt="commits" align="left"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srithailaveni-2420&theme=github_dark"/>
+<img alt="commits" align="left"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srithailaveni-2420&theme=transparent"/>
 
+
+<img alt="commits" align="left"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srithailaveni-2420&theme=transparent"/>
