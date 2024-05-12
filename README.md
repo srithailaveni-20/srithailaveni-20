@@ -7,11 +7,12 @@
 >  I’m a Data Science enthusiast with proficiency in Data Analysis, Machine Learning, Statistics, and programming languages like Python and SQL. Passionate about learning and growing in the field of Data Science.
 
 
-<img alt="my stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srithailaveni-2420&theme=transparent"/>
+<img alt="my stats"   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srithailaveni-2420&theme=github_dark"/>
 
-<img alt="my stats" align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srithailaveni-2420&theme=transparent"/>
+<img alt="my stats" align="left"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srithailaveni-2420&theme=transparent"/>
 
-<img alt="commits" align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srithailaveni-2420&theme=transparent&utcOffset={utcOffset}"/> 
+<img alt="commits" align="left"  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srithailaveni-2420&theme=transparent"/> 
 
 
+<img alt="commits" align="left"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srithailaveni-2420&theme=github_dark"/>
 
