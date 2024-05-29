@@ -12,10 +12,12 @@
 
 <h2> GitHub Statistics </h2>
 
+
 <img alt="my stats"  width="350px" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srithailaveni-2420&theme=transparent"/>
 <img alt="commits"  width="350px" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srithailaveni-2420&theme=transparent"/> 
 <img alt="commits"  width="350px" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srithailaveni-2420&theme=transparent"/>
-<img alt="commits"  width="350px" align="right"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srithailaveni-2420&theme=transparent">
+<img alt="leet_code stats" align="right" width="400px" src="https://leetcard.jacoblin.cool/srithailaveni?theme=nord"> 
+<img alt="commits" width="350px" align="left"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srithailaveni-2420&theme=transparent">
 
 
 
