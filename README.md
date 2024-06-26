@@ -33,7 +33,7 @@
 
 <h2> GitHub & Leet Code Statistics </h2>
 
-<img alt="my stats" width="750px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srithailaveni-2420&theme=github_dark"/>
+<img alt="my stats" width="900px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srithailaveni-2420&theme=github_dark"/>
 
 | <img alt="my stats"  width="400px" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srithailaveni-2420&theme=transparent"/> | <img alt="commits"  width="400px" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srithailaveni-2420&theme=transparent"/> |
 |-------|-------|
