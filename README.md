@@ -5,7 +5,7 @@
 <div align="center" >
   
   ``` Data Scientist ``` ``` Data Analyst ``` ``` Business Analyst ```  
-  <h3>SKILLS</h3>
+  <h2>SKILLS</h2>
   
  ``` Python ``` ``` Data Analytics ```  ``` PostgreSQL ``` ``` Data Visualization (Tableau) ``` ``` Machine Learning ``` ``` Deep Learning ```  ``` Artificial Neural Networks ``` 
 </div>
