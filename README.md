@@ -15,8 +15,9 @@
 <p>
  
 > #### *I’m a Data Science enthusiast with proficiency in Data Analysis, Machine Learning, Statistics, and programming languages like Python and SQL. Passionate about learning and growing in the field of Data Science.*
+<br>
 
-#### *Check out My [Roadmap](https://harmonious-seer-e8e.notion.site/Data-Scientist-Roadmap-08afdb4e3bb24a769b6a097c294098d2) to become a Data Scientist! This detailed plan is my personal blueprint, guiding me through every step of the journey. It covers everything from mastering the basics to diving into complex data science techniques.<br><br> I'm following this roadmap to not only build a strong foundation but also to sharpen my skills in areas like `` Machine Learning ``, `` Data Visualization ``, `` Statistical Analysis ``, and more. ✨.*
+*Check out My [Roadmap](https://harmonious-seer-e8e.notion.site/Data-Scientist-Roadmap-08afdb4e3bb24a769b6a097c294098d2) to become a Data Scientist! This detailed plan is my personal blueprint, guiding me through every step of the journey. It covers everything from mastering the basics to diving into complex data science techniques.<br><br> I'm following this roadmap to not only build a strong foundation but also to sharpen my skills in areas like `` Machine Learning ``, `` Data Visualization ``, `` Statistical Analysis ``, and more. ✨.*
   
 </p>
 
