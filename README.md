@@ -52,6 +52,19 @@
 
 <br><br>
 
+<h2> Understanding & Certifications on </h2>
+<h3>1. Introduction to Data Concepts By IBM SkillsBuild</h3> 
+    
+*[``Go To Course``](https://skills.yourlearning.ibm.com/activity/MDL-215)*
+
+<p>Now, I'm familiar with fundamental data concepts such as types of data, big data, the typical steps in the data analytics process, and data visualization.<br><br> This course emphasized the importance of data insights for business improvement, customer understanding, and profit increase. It covered the process of data analysis, including collecting, cleaning, and transforming data. I learned to distinguish between structured and unstructured data, as well as quantitative and qualitative data. The course detailed the 5 V’s of big data (Volume, Variety, Velocity, Veracity, and Value) and the four types of data analytics (Descriptive, Diagnostic, Predictive, and Prescriptive). Additionally, I learned the typical steps in the data analysis process and the significance of data visualization in identifying patterns and communicating insights effectively.
+    
+*[``Click here``]()* to view my certificate on this Course✨.</p>
+
+
+
+<br><br>
+
  <h2> Tools & Frameworks </h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,postgresql,tensorflow,azure" /><br>
