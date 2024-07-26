@@ -59,8 +59,7 @@
 
 <p>I have completed the Data Fundamentals course, earning an industry-recognized IBM SkillsBuild digital credential. Throughout this course, I gained a comprehensive understanding of data science concepts and methodologies, including types of data, big data, analytics techniques, and the steps involved in the data analytics process. I explored data science applications across various industries and learned to identify the roles and responsibilities of data analysts, data scientists, and data engineers. Additionally, I acquired hands-on experience, utilizing the data refinery tool to clean, refine, and visualize data. This course also provided insights into the current job market, essential skill sets, and valuable resources for further exploration in data science. The curriculum was designed to build knowledge progressively, ensuring a solid foundation in each study area. And
     
-*[``Click here``]()* to view my credential on this Course✨.</p>
-
+*[``Click here``](https://www.credly.com/badges/df4100b8-50b9-467c-bc76-9d44284ca3a1/public_url)* to view my credential on this Course✨.</p>
 
 
 <br><br>
