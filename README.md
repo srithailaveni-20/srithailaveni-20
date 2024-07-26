@@ -55,14 +55,15 @@
 <h2> Understanding & Certifications on </h2>
 <h3>1. Data Fundamentals By IBM SkillsBuild</h3> 
     
-*[``Go To Course``](https://skills.yourlearning.ibm.com/activity/PLAN-BC0FAEE8E439)*
+*[``Go To Course``](https://skills.yourlearning.ibm.com/activity/PLAN-BC0FAEE8E439)* | 
+*[``Click here``](https://www.credly.com/badges/df4100b8-50b9-467c-bc76-9d44284ca3a1/public_url)* to view my certificate for this course✨.
 
-<p>I have completed the Data Fundamentals course, earning an industry-recognized IBM SkillsBuild digital credential. Throughout this course, I gained a comprehensive understanding of data science concepts and methodologies, including types of data, big data, analytics techniques, and the steps involved in the data analytics process. I explored data science applications across various industries and learned to identify the roles and responsibilities of data analysts, data scientists, and data engineers. Additionally, I acquired hands-on experience, utilizing the data refinery tool to clean, refine, and visualize data. This course also provided insights into the current job market, essential skill sets, and valuable resources for further exploration in data science. The curriculum was designed to build knowledge progressively, ensuring a solid foundation in each study area. And
-    
-*[``Click here``](https://www.credly.com/badges/df4100b8-50b9-467c-bc76-9d44284ca3a1/public_url)* to view my credential on this Course✨.</p>
+<p>I am excited to announce that I have completed the "Data Fundamentals" course by IBM, earning an industry-recognized digital credential. This program provided me with a solid foundation in data science, covering key topics such as data concepts, analytics techniques, data visualization, and data science methodologies. I gained hands-on experience using IBM Watson Studio for data cleaning, refining, and visualization. The course also offered insights into the roles of data analysts and scientists, along with the job landscape and career opportunities in data science.</p>
 
 
 <br><br>
+
+
 
  <h2> Tools & Frameworks </h2>
 <div align="center">
