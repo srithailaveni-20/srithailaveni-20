@@ -17,10 +17,9 @@
 > #### I’m a Data Science enthusiast with proficiency in Data Analysis, Machine Learning, Statistics, and programming languages like Python and SQL. Passionate about learning and growing in the field of Data Science.
 <br>
 
-*Check out My [Roadmap](https://harmonious-seer-e8e.notion.site/Data-Scientist-Roadmap-08afdb4e3bb24a769b6a097c294098d2) to become a Data Scientist! This detailed plan is my personal blueprint, guiding me through every step of the journey. It covers everything from mastering the basics to diving into complex data science techniques.<br><br> I'm following this roadmap to not only build a strong foundation but also to sharpen my skills in areas like `` Machine Learning ``, `` Data Visualization ``, `` Statistical Analysis ``, and more. ✨.*
+Check out My [Roadmap](https://harmonious-seer-e8e.notion.site/Data-Scientist-Roadmap-08afdb4e3bb24a769b6a097c294098d2) to become a Data Scientist! This detailed plan is my personal blueprint, guiding me through every step of the journey. It covers everything from mastering the basics to diving into complex data science techniques. I'm following this roadmap to build a strong foundation and sharpen my skills in areas like `` Machine Learning ``, `` Data Visualization ``, `` Statistical Analysis ``, and more. ✨.
   
 </p>
-
 
 <br>
 
@@ -31,7 +30,7 @@
 </div>
 
 <br>
-<br>
+
 
  <h2 align="center"> Tools & Frameworks </h2>
 <div align="center">
@@ -43,7 +42,7 @@
 <br>
 <br>
 
-<h2 align="center">EVENTS & ACHIVEMENTS</h2>  
+<h2 align="center">Events & Achievements </h2>  
 
 |     **EVENT NAME**    |    **EVENT**    | **STATUS** | **Event Mode** |
 |-----------------------|-----------------------------------|--------------------|-----|
@@ -67,9 +66,9 @@
 <br>
 
 
-<h2> Badges / Certified on </h2>
-<h3>1. Data Fundamentals By IBM SkillsBuild</h3> 
-    
+<h2 align="center"> Badges / Certified on </h2>
+<h5>1. Data Fundamentals By IBM SkillsBuild </h5>
+
 *[``Go To Course``](https://skills.yourlearning.ibm.com/activity/PLAN-BC0FAEE8E439)* | 
 *[``Click here``](https://www.credly.com/badges/df4100b8-50b9-467c-bc76-9d44284ca3a1/public_url)* to view my certificate for this course✨.
 
