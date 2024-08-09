@@ -14,7 +14,7 @@
 
 <p>
  
-> #### *I’m a Data Science enthusiast with proficiency in Data Analysis, Machine Learning, Statistics, and programming languages like Python and SQL. Passionate about learning and growing in the field of Data Science.*
+> #### I’m a Data Science enthusiast with proficiency in Data Analysis, Machine Learning, Statistics, and programming languages like Python and SQL. Passionate about learning and growing in the field of Data Science.
 <br>
 
 *Check out My [Roadmap](https://harmonious-seer-e8e.notion.site/Data-Scientist-Roadmap-08afdb4e3bb24a769b6a097c294098d2) to become a Data Scientist! This detailed plan is my personal blueprint, guiding me through every step of the journey. It covers everything from mastering the basics to diving into complex data science techniques.<br><br> I'm following this roadmap to not only build a strong foundation but also to sharpen my skills in areas like `` Machine Learning ``, `` Data Visualization ``, `` Statistical Analysis ``, and more. ✨.*
@@ -29,20 +29,23 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" width='150px'/> 
   </a>
 </div>
+
+<br>
 <br>
 
-<h2> GitHub & Leet Code Statistics </h2>
+ <h2 align="center"> Tools & Frameworks </h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,postgresql,tensorflow,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,anaconda,notion,figma,git,github" />
+    
+</div>
 
-<img alt="my stats" width="900px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srithailaveni-2420&theme=github_dark"/>
+<br>
+<br>
 
-| <img alt="my stats"  width="400px" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srithailaveni-2420&theme=transparent"/> | <img alt="commits"  width="400px" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srithailaveni-2420&theme=transparent"/> |
-|-------|-------|
-| <img alt="commits"  width="400px"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srithailaveni-2420&theme=transparent"/> | <img alt="leet_code stats" width="400px" src="https://leetcard.jacoblin.cool/srithailaveni?theme=nord"> |
+<h2 align="center">EVENTS & ACHIVEMENTS</h2>  
 
-<br><br>
-<h2>EVENTS & AWARDS</h2>  
-
-|     **EVENT NAME**    |    **EVENT**    | **AWARD STATUS** | **Event Mode** |
+|     **EVENT NAME**    |    **EVENT**    | **STATUS** | **Event Mode** |
 |-----------------------|-----------------------------------|--------------------|-----|
 | GIST’23 `DHANISH AHMED COLLEGE OF ENGINEERING`| ``` CODE-A-THON ``` On 23rd Febrary 23 | *[``3RD PLACE``](https://drive.google.com/file/d/1De-yU8Bks3Ooe49SmfNA9REBWzIri-FM/view?usp=sharing)*  | *Offline*|
 | CODE-A-THON’23 `PRATHYUSHA ENGINEERING COLLEGE` | ``` Non-stop 12 hours ``` On 25th Febrary 23 | *[``3RD PLACE``](https://drive.google.com/file/d/1Wbdk_01tvww2suVYx9sR-MWAIwgcoehN/view?usp=sharing)* |*Offline*|
@@ -52,25 +55,30 @@
 
 <br><br>
 
-<h2> Understanding & Certifications on </h2>
+<h2 align="center"> GitHub & Leet Code Statistics </h2>
+
+<img alt="my stats" width="900px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srithailaveni-2420&theme=github_dark"/>
+
+| <img alt="my stats"  width="400px" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srithailaveni-2420&theme=transparent"/> | <img alt="commits"  width="400px" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srithailaveni-2420&theme=transparent"/> |
+|-------|-------|
+| <img alt="commits"  width="400px"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srithailaveni-2420&theme=transparent"/> | <img alt="leet_code stats" width="400px" src="https://leetcard.jacoblin.cool/srithailaveni?theme=nord"> |
+
+<br>
+<br>
+
+
+<h2> Badges / Certified on </h2>
 <h3>1. Data Fundamentals By IBM SkillsBuild</h3> 
     
 *[``Go To Course``](https://skills.yourlearning.ibm.com/activity/PLAN-BC0FAEE8E439)* | 
 *[``Click here``](https://www.credly.com/badges/df4100b8-50b9-467c-bc76-9d44284ca3a1/public_url)* to view my certificate for this course✨.
 
-<p>I am excited to announce that I have completed the "Data Fundamentals" course by IBM, earning an industry-recognized digital credential. This program provided me with a solid foundation in data science, covering key topics such as data concepts, analytics techniques, data visualization, and data science methodologies. I gained hands-on experience using IBM Watson Studio for data cleaning, refining, and visualization. The course also offered insights into the roles of data analysts and scientists, along with the job landscape and career opportunities in data science.</p>
+<br>
+<br>
 
 
-<br><br>
 
 
-
- <h2> Tools & Frameworks </h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,postgresql,tensorflow,azure" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,anaconda,notion,figma,git,github" />
-    
-</div>
 
 
 
