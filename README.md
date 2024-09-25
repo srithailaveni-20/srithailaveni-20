@@ -34,8 +34,8 @@ Check out My [Roadmap](https://harmonious-seer-e8e.notion.site/Data-Scientist-Ro
 
  <h2 align="center"> Tools & Frameworks </h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,postgresql,tensorflow,azure" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,anaconda,notion,figma,git,github" />
+    <img src="https://skillicons.dev/icons?i=python,postgresql,tensorflow,aws,scikitlearn" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,anaconda,notion,figma,github" />
     
 </div>
 
@@ -62,15 +62,6 @@ Check out My [Roadmap](https://harmonious-seer-e8e.notion.site/Data-Scientist-Ro
 |-------|-------|
 | <img alt="commits"  width="400px"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srithailaveni-2420&theme=transparent"/> | <img alt="leet_code stats" width="400px" src="https://leetcard.jacoblin.cool/srithailaveni?theme=nord"> |
 
-<br>
-<br>
-
-
-<h2 align="center"> Badges / Certified on </h2>
-<h5>1. Data Fundamentals By IBM SkillsBuild </h5>
-
-*[``Go To Course``](https://skills.yourlearning.ibm.com/activity/PLAN-BC0FAEE8E439)* | 
-*[``Click here``](https://www.credly.com/badges/df4100b8-50b9-467c-bc76-9d44284ca3a1/public_url)* to view my certificate for this course✨.
 
 <br>
 <br>
