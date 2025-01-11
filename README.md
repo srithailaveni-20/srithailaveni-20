@@ -35,7 +35,7 @@ Check out My [Roadmap](https://harmonious-seer-e8e.notion.site/Data-Scientist-Ro
  <h2 align="center"> Tools & Frameworks </h2>
 <div align="center">
     <h3>Working Knowledge & Moderate Proficiency in 👇 </h3><br>
-    <img src="https://skillicons.dev/icons?i=python,postgresql,github" />
+    <img src="https://skillicons.dev/icons?i=python,postgresql,github" /><br>
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png", width="40px" /> 
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" width=40px />
     <img src="https://github.com/sempostma/office365-icons/blob/4ef2ee3dc5705f4ab23bc5fc7f236884d0bc10f3/png/256/excel.png" width=40px /> 
