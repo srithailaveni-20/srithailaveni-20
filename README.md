@@ -1,6 +1,10 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=srithailaveni-2420.visitor-badge)
+
+
 <h4 align="center" >
     <img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+hi!+👋;+I'm+SRI+THAILA+VENI+!;+Aspiring+to+become+a+Data+Scientist;+I'm+always+open+to+connecting;+and+learning+from+others!😸" />
 </h4>
+
 
 <div align="center" >
   
