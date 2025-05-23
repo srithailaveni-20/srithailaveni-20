@@ -8,7 +8,7 @@
 
 <div align="center" >
   
-  ``` Data Scientist ``` ``` Data Analyst ``` ``` Business Analyst ```  
+  ``` Data Scientist ``` ``` Data Analyst ``` ``` Data Engineer ```  ``` Business Analyst ``` 
   <h2>SKILLS</h2>
   
  ``` Python ``` ``` Data Analytics ```  ``` PostgreSQL ``` ``` Data Visualization (Tableau) ``` ``` Machine Learning ``` ``` Deep Learning ```  ``` Artificial Neural Networks ``` 
