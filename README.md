@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=srithailaveni-2420.visitor-badge)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=srithailaveni-2024.visitor-badge)
 
 
 <h4 align="center" >
@@ -70,11 +70,11 @@ Check out My [Roadmap](https://harmonious-seer-e8e.notion.site/Data-Scientist-Ro
 
 <h2 align="center"> GitHub & Leet Code Statistics </h2>
 
-<img alt="my stats" width="900px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srithailaveni-20&theme=github_dark"/>
+<img alt="my stats" width="900px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srithailaveni-2024&theme=github_dark"/>
 
-| <img alt="my stats"  width="400px" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srithailaveni-20&theme=transparent"/> | <img alt="commits"  width="400px" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srithailaveni-20&theme=transparent"/> |
+| <img alt="my stats"  width="400px" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=srithailaveni-2024&theme=transparent"/> | <img alt="commits"  width="400px" align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srithailaveni-2024&theme=transparent"/> |
 |-------|-------|
-| <img alt="commits"  width="400px"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srithailaveni-20&theme=transparent"/> | <img alt="leet_code stats" width="400px" src="https://leetcard.jacoblin.cool/srithailaveni?theme=nord"> |
+| <img alt="commits"  width="400px"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srithailaveni-2024&theme=transparent"/> | <img alt="leet_code stats" width="400px" src="https://leetcard.jacoblin.cool/srithailaveni?theme=nord"> |
 
 
 <br>
